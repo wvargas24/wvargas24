@@ -11,8 +11,7 @@ I'm a passionate software developer who loves working on interesting projects. I
 
 Here are some of my featured projects that I have worked on:
 
-- [Project 1](link_to_project_1): A brief description of the project.
-- [Project 2](link_to_project_2): Another brief description of the project.
+- [MurdaBeatz](https://wvargas24.github.io/MurdaBeatz/): This project is an interactive website called MurdaBeatz. It is a static web page developed using HTML, CSS, and JavaScript. It utilizes popular libraries such as Bootstrap, Slick Slider, and Lightbox to enhance the appearance and functionality of the site.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
