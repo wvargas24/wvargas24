@@ -2,7 +2,7 @@
 
 I'm a passionate software developer who loves working on interesting projects. I specialize in HTML, CSS, JavaScript, and React. Here's a quick glance about me:
 
-- 🌱 I'm currently learning [relevant technology/language/framework]
+- 🌱 I'm currently learning React Js
 - 💼 I work as a Senior Developer at The Brand Leader
 - 👯 I enjoy collaborating on open-source projects
 - 💬 You can ask me about anything
