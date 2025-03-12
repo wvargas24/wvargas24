@@ -79,7 +79,7 @@
 ![Docker](https://img.shields.io/badge/Docker-09131B?style=for-the-badge&logo=Docker&logoColor=119AD4)
 
 <br/>
-
+<!-- 
 ## Top Open Source
 
 [![MurdaBeatz](https://github-readme-stats.vercel.app/api/pin/?username=wvargas24&repo=Fullstack_Abschlussprojekt_SilentMoon&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://wvargas24.github.io/MurdaBeatz/)
@@ -92,6 +92,7 @@
 </p>
 
 <br/>
+-->
 
 ## My Stats
 
